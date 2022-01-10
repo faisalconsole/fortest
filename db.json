@@ -1,5 +1,11 @@
-"users":
 {
-  "id": 1,
-  "nama": "faisal"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
