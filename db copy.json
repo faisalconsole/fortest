@@ -1,0 +1,314 @@
+{
+  "users": [
+    {
+    "id": 1,
+    "fullName": "Galen Slixby",
+    "company": "Yotz PVT LTD",
+    "role": "editor",
+    "username": "gslixby0",
+    "country": "El Salvador",
+    "contact": "(479) 232-9151",
+    "email": "gslixby0@abc.net.au",
+    "currentPlan": "enterprise",
+    "status": "inactive",
+    "avatar": ""
+    },
+    {
+        "id": 2,
+        "fullName": "Halsey Redmore",
+        "company": "Skinder PVT LTD",
+        "role": "author",
+        "username": "hredmore1",
+        "country": "Albania",
+        "contact": "(472) 607-9137",
+        "email": "hredmore1@imgur.com",
+        "currentPlan": "team",
+        "status": "pending",
+        "avatar": ""
+    },
+    {
+        "id": 3,
+        "fullName": "Marjory Sicely",
+        "company": "Oozz PVT LTD",
+        "role": "maintainer",
+        "username": "msicely2",
+        "country": "Russia",
+        "contact": "(321) 264-4599",
+        "email": "msicely2@who.int",
+        "currentPlan": "enterprise",
+        "status": "active",
+        "avatar": ""
+    },
+    {
+        "id": 4,
+        "fullName": "Cyrill Risby",
+        "company": "Oozz PVT LTD",
+        "role": "maintainer",
+        "username": "crisby3",
+        "country": "China",
+        "contact": "(923) 690-6806",
+        "email": "crisby3@wordpress.com",
+        "currentPlan": "team",
+        "status": "inactive",
+        "avatar": ""
+    },
+    {
+        "id": 5,
+        "fullName": "Maggy Hurran",
+        "company": "Aimbo PVT LTD",
+        "role": "subscriber",
+        "username": "mhurran4",
+        "country": "Pakistan",
+        "contact": "(669) 914-1078",
+        "email": "mhurran4@yahoo.co.jp",
+        "currentPlan": "enterprise",
+        "status": "pending",
+        "avatar": ""
+    },
+    {
+        "id": 6,
+        "fullName": "Silvain Halstead",
+        "company": "Jaxbean PVT LTD",
+        "role": "author",
+        "username": "shalstead5",
+        "country": "China",
+        "contact": "(958) 973-3093",
+        "email": "shalstead5@shinystat.com",
+        "currentPlan": "company",
+        "status": "active",
+        "avatar": ""
+    },
+    {
+        "id": 7,
+        "fullName": "Breena Gallemore",
+        "company": "Jazzy PVT LTD",
+        "role": "subscriber",
+        "username": "bgallemore6",
+        "country": "Canada",
+        "contact": "(825) 977-8152",
+        "email": "bgallemore6@boston.com",
+        "currentPlan": "company",
+        "status": "pending",
+        "avatar": ""
+    },
+    {
+        "id": 8,
+        "fullName": "Kathryne Liger",
+        "company": "Pixoboo PVT LTD",
+        "role": "author",
+        "username": "kliger7",
+        "country": "France",
+        "contact": "(187) 440-0934",
+        "email": "kliger7@vinaora.com",
+        "currentPlan": "enterprise",
+        "status": "pending",
+        "avatar": ""
+    },
+    {
+        "id": 9,
+        "fullName": "Franz Scotfurth",
+        "company": "Tekfly PVT LTD",
+        "role": "subscriber",
+        "username": "fscotfurth8",
+        "country": "China",
+        "contact": "(978) 146-5443",
+        "email": "fscotfurth8@dailymotion.com",
+        "currentPlan": "team",
+        "status": "pending",
+        "avatar": ""
+    },
+    {
+        "id": 10,
+        "fullName": "Jillene Bellany",
+        "company": "Gigashots PVT LTD",
+        "role": "maintainer",
+        "username": "jbellany9",
+        "country": "Jamaica",
+        "contact": "(589) 284-6732",
+        "email": "jbellany9@kickstarter.com",
+        "currentPlan": "company",
+        "status": "inactive",
+        "avatar": ""
+    },
+    {
+        "id": 11,
+        "fullName": "Jonah Wharlton",
+        "company": "Eare PVT LTD",
+        "role": "subscriber",
+        "username": "jwharltona",
+        "country": "United States",
+        "contact": "(176) 532-6824",
+        "email": "jwharltona@oakley.com",
+        "currentPlan": "team",
+        "status": "inactive",
+        "avatar": ""
+    }
+  ],
+  "tasks": [
+    {
+    "id": 1,
+    "title": "Ini dari data online Entire change break our wife wide it daughter mention member.",
+    "dueDate": "2020-11-25",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Jacob Ramirez",
+        "avatar": ""
+    },
+    "tags": ["update"],
+    "isCompleted": "false",
+    "isDeleted": "false",
+    "isImportant": "false"
+    },
+    {
+    "id": 2,
+    "title": "Citizen stand administration step agency century.",
+    "dueDate": "2020-12-14",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Andrew Anderson",
+        "avatar": ""
+    },
+    "tags": ["team", "medium"],
+    "isCompleted": true,
+    "isDeleted": "false",
+    "isImportant": "false"
+    },
+    {
+    "id": 3,
+    "title": "Meet Jane and ask for coffee ❤️",
+    "dueDate": "2020-11-25",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Benjamin Jacobs",
+        "avatar": ""
+    },
+    "tags": ["high"],
+    "isCompleted": "false",
+    "isDeleted": "false",
+    "isImportant": "false"
+    },
+    {
+    "id": 4,
+    "title": "Answer the support tickets and close completed tickets. ",
+    "dueDate": "2020-11-20",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Curtis Schmidt",
+        "avatar": ""
+    },
+    "tags": ["medium"],
+    "isCompleted": "false",
+    "isDeleted": "false",
+    "isImportant": true
+    },
+    {
+    "id": 5,
+    "title": "Test functionality of apps developed by dev team for enhancements. ",
+    "dueDate": "2020-12-06",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Katherine Perkins",
+        "avatar": ""
+    },
+    "tags": ["medium"],
+    "isCompleted": true,
+    "isDeleted": "false",
+    "isImportant": true
+    },
+    {
+    "id": 6,
+    "title": "Conduct a mini awareness meeting regarding health care. ",
+    "dueDate": "2020-12-06",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "David Murphy",
+        "avatar": ""
+    },
+    "tags": ["high", "medium"],
+    "isCompleted": true,
+    "isDeleted": true,
+    "isImportant": "false"
+    },
+    {
+    "id": 7,
+    "title": "Plan new dashboard design with design team for Google app store. ",
+    "dueDate": "2020-12-05",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Karina Miller",
+        "avatar": ""
+    },
+    "tags": ["medium"],
+    "isCompleted": "false",
+    "isDeleted": "false",
+    "isImportant": true
+    },
+    {
+    "id": 8,
+    "title": "Pick up Nats from her school and drop at dance class😁 ",
+    "dueDate": "2020-12-08",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Thomas Moses",
+        "avatar": ""
+    },
+    "tags": ["low", "medium"],
+    "isCompleted": "false",
+    "isDeleted": "false",
+    "isImportant": "false"
+    },
+    {
+    "id": 9,
+    "title": "Finish documentation and make it live",
+    "dueDate": "2020-11-25",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Angel Morrow",
+        "avatar": ""
+    },
+    "tags": ["high", "update"],
+    "isCompleted": "false",
+    "isDeleted": true,
+    "isImportant": "false"
+    },
+    {
+    "id": 10,
+    "title": "List out all the SEO resources and send it to new SEO team. ",
+    "dueDate": "2020-12-09",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Karen Carrillo",
+        "avatar": ""
+    },
+    "tags": ["low"],
+    "isCompleted": true,
+    "isDeleted": "false",
+    "isImportant": "false"
+    },
+    {
+    "id": 11,
+    "title": "Refactor Code and fix the bugs and test it on server ",
+    "dueDate": "2020-12-01",
+    "description":
+        "Chocolate cake topping bonbon jujubes donut sweet wafer. Marzipan gingerbread powder brownie bear claw. Chocolate bonbon sesame snaps jelly caramels oat cake.",
+    "assignee": {
+        "fullName": "Timothy Brewer",
+        "avatar": ""
+    },
+    "tags": ["low"],
+    "isCompleted": true,
+    "isDeleted": "false",
+    "isImportant": true
+    }
+  ]
+}
